@@ -1,0 +1,15 @@
+<Project>
+  <Import Project="version.props" />
+
+  <PropertyGroup>
+    <Authors>Yang Chao</Authors>
+    <Company>成都金涞科技有限公司</Company>
+    <Copyright>Copyright @ 成都金涞科技有限公司</Copyright>
+    <PackageProjectUrl>https://github.com/kinglionsoft/K9Web.Utils</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryRoot>$(MSBuildThisFileDirectory)</RepositoryRoot>
+    <RepositoryUrl>https://github.com/kinglionsoft/K9Web.Utils</RepositoryUrl>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+
+</Project>
